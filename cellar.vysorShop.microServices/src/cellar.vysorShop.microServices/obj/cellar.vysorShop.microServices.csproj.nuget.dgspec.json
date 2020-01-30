@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+<<<<<<< HEAD
+    "/Volumes/D/Desarrollos/VysorShopBackend/cellar.vysorShop.microServices/src/cellar.vysorShop.microServices/cellar.vysorShop.microServices.csproj": {}
+  },
+  "projects": {
+    "/Volumes/D/Desarrollos/VysorShopBackend/cellar.vysorShop.microServices/src/cellar.vysorShop.microServices/cellar.vysorShop.microServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/D/Desarrollos/VysorShopBackend/cellar.vysorShop.microServices/src/cellar.vysorShop.microServices/cellar.vysorShop.microServices.csproj",
+        "projectName": "cellar.vysorShop.microServices",
+        "projectPath": "/Volumes/D/Desarrollos/VysorShopBackend/cellar.vysorShop.microServices/src/cellar.vysorShop.microServices/cellar.vysorShop.microServices.csproj",
+        "packagesPath": "/Users/juanquintana/.nuget/packages/",
+        "outputPath": "/Volumes/D/Desarrollos/VysorShopBackend/cellar.vysorShop.microServices/src/cellar.vysorShop.microServices/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/juanquintana/.config/NuGet/NuGet.Config"
+=======
+    "C:\\Users\\Usuario\\Documents\\microservices\\cellar.vysorShop.microServices\\src\\cellar.vysorShop.microServices\\cellar.vysorShop.microServices.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Usuario\\Documents\\microservices\\cellar.vysorShop.microServices\\src\\cellar.vysorShop.microServices\\cellar.vysorShop.microServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\microservices\\cellar.vysorShop.microServices\\src\\cellar.vysorShop.microServices\\cellar.vysorShop.microServices.csproj",
+        "projectName": "cellar.vysorShop.microServices",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\microservices\\cellar.vysorShop.microServices\\src\\cellar.vysorShop.microServices\\cellar.vysorShop.microServices.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\microservices\\cellar.vysorShop.microServices\\src\\cellar.vysorShop.microServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+>>>>>>> 5bd0a484ab66b8891ef2bd3fc9d91e505f7d2e2a
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+<<<<<<< HEAD
+=======
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+>>>>>>> 5bd0a484ab66b8891ef2bd3fc9d91e505f7d2e2a
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AWSSDK.Extensions.NETCore.Setup": {
+              "target": "Package",
+              "version": "[3.3.100.1, )"
+            },
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.3.101.11, )"
+            },
+            "Amazon.Lambda.AspNetCoreServer": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "Microsoft.AspNetCore.App": {
+<<<<<<< HEAD
+              "target": "Package",
+              "version": "[2.1.4, )"
+=======
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+>>>>>>> 5bd0a484ab66b8891ef2bd3fc9d91e505f7d2e2a
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "MySql.Data.EntityFramework": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

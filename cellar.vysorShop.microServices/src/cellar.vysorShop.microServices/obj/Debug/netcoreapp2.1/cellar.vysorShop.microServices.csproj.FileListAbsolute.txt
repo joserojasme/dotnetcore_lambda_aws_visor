@@ -1,0 +1,14 @@
+/Volumes/D/Desarrollos/VysorShopBackend/cellar.vysorShop.microServices/src/cellar.vysorShop.microServices/bin/Debug/netcoreapp2.1/cellar.vysorShop.microServices.deps.json
+/Volumes/D/Desarrollos/VysorShopBackend/cellar.vysorShop.microServices/src/cellar.vysorShop.microServices/bin/Debug/netcoreapp2.1/cellar.vysorShop.microServices.runtimeconfig.json
+/Volumes/D/Desarrollos/VysorShopBackend/cellar.vysorShop.microServices/src/cellar.vysorShop.microServices/bin/Debug/netcoreapp2.1/cellar.vysorShop.microServices.runtimeconfig.dev.json
+/Volumes/D/Desarrollos/VysorShopBackend/cellar.vysorShop.microServices/src/cellar.vysorShop.microServices/bin/Debug/netcoreapp2.1/cellar.vysorShop.microServices.dll
+/Volumes/D/Desarrollos/VysorShopBackend/cellar.vysorShop.microServices/src/cellar.vysorShop.microServices/bin/Debug/netcoreapp2.1/cellar.vysorShop.microServices.pdb
+/Volumes/D/Desarrollos/VysorShopBackend/cellar.vysorShop.microServices/src/cellar.vysorShop.microServices/obj/Debug/netcoreapp2.1/cellar.vysorShop.microServices.csprojAssemblyReference.cache
+/Volumes/D/Desarrollos/VysorShopBackend/cellar.vysorShop.microServices/src/cellar.vysorShop.microServices/obj/Debug/netcoreapp2.1/cellar.vysorShop.microServices.csproj.CoreCompileInputs.cache
+/Volumes/D/Desarrollos/VysorShopBackend/cellar.vysorShop.microServices/src/cellar.vysorShop.microServices/obj/Debug/netcoreapp2.1/cellar.vysorShop.microServices.RazorAssemblyInfo.cache
+/Volumes/D/Desarrollos/VysorShopBackend/cellar.vysorShop.microServices/src/cellar.vysorShop.microServices/obj/Debug/netcoreapp2.1/cellar.vysorShop.microServices.RazorAssemblyInfo.cs
+/Volumes/D/Desarrollos/VysorShopBackend/cellar.vysorShop.microServices/src/cellar.vysorShop.microServices/obj/Debug/netcoreapp2.1/cellar.vysorShop.microServices.AssemblyInfoInputs.cache
+/Volumes/D/Desarrollos/VysorShopBackend/cellar.vysorShop.microServices/src/cellar.vysorShop.microServices/obj/Debug/netcoreapp2.1/cellar.vysorShop.microServices.AssemblyInfo.cs
+/Volumes/D/Desarrollos/VysorShopBackend/cellar.vysorShop.microServices/src/cellar.vysorShop.microServices/obj/Debug/netcoreapp2.1/cellar.vysorShop.microServices.RazorTargetAssemblyInfo.cache
+/Volumes/D/Desarrollos/VysorShopBackend/cellar.vysorShop.microServices/src/cellar.vysorShop.microServices/obj/Debug/netcoreapp2.1/cellar.vysorShop.microServices.dll
+/Volumes/D/Desarrollos/VysorShopBackend/cellar.vysorShop.microServices/src/cellar.vysorShop.microServices/obj/Debug/netcoreapp2.1/cellar.vysorShop.microServices.pdb

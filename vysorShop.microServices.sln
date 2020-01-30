@@ -1,0 +1,66 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pricelist.vysorShop.microServices", "pricelist.vysorShop.microServices\src\pricelist.vysorShop.microServices\pricelist.vysorShop.microServices.csproj", "{F4E0BDCE-9644-4342-B733-41FC8CA1A07C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "product.vysorShop.microServices", "product.vysorShop.microServices\product.vysorShop.microServices\src\product.vysorShop.microServices\product.vysorShop.microServices.csproj", "{8FDE2675-1826-4344-B403-5FAB022CCB9D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "client.vysorShop.microServices", "client.vysorShop.microServices\src\client.vysorShop.microServices\client.vysorShop.microServices.csproj", "{7B6303C4-884C-4D21-B98A-8B76AB688F60}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cellar.vysorShop.microServices", "cellar.vysorShop.microServices\src\cellar.vysorShop.microServices\cellar.vysorShop.microServices.csproj", "{9F383A60-422B-47E8-B8A2-F4A61C879289}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "transactions.vysorShop.microServices", "transactions.vysorShop.microServices\src\transactions.vysorShop.microServices\transactions.vysorShop.microServices.csproj", "{E2A563F7-066D-4372-9C14-98B3BBE8C192}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dianResolution.vysorShop.microServices", "dianResolution.vysorShop.microServices\src\dianResolution.vysorShop.microServices\dianResolution.vysorShop.microServices.csproj", "{CF17B51E-67C2-4B8E-BC31-5270B9D5A6EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jobTransaccion.vysorShop.microServices", "jobTransaccion.vysorShop.microServices\src\jobTransaccion.vysorShop.microServices\jobTransaccion.vysorShop.microServices.csproj", "{4A4F9578-11BA-4F16-BE70-077964C36BC3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "manageTransactions", "manageTransactions\manageTransactions.csproj", "{E0EB7B6E-29DA-4545-A051-095E1C4B6458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E0BDCE-9644-4342-B733-41FC8CA1A07C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E0BDCE-9644-4342-B733-41FC8CA1A07C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E0BDCE-9644-4342-B733-41FC8CA1A07C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E0BDCE-9644-4342-B733-41FC8CA1A07C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FDE2675-1826-4344-B403-5FAB022CCB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FDE2675-1826-4344-B403-5FAB022CCB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FDE2675-1826-4344-B403-5FAB022CCB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FDE2675-1826-4344-B403-5FAB022CCB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B6303C4-884C-4D21-B98A-8B76AB688F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B6303C4-884C-4D21-B98A-8B76AB688F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B6303C4-884C-4D21-B98A-8B76AB688F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B6303C4-884C-4D21-B98A-8B76AB688F60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F383A60-422B-47E8-B8A2-F4A61C879289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F383A60-422B-47E8-B8A2-F4A61C879289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F383A60-422B-47E8-B8A2-F4A61C879289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F383A60-422B-47E8-B8A2-F4A61C879289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A563F7-066D-4372-9C14-98B3BBE8C192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A563F7-066D-4372-9C14-98B3BBE8C192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A563F7-066D-4372-9C14-98B3BBE8C192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A563F7-066D-4372-9C14-98B3BBE8C192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF17B51E-67C2-4B8E-BC31-5270B9D5A6EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF17B51E-67C2-4B8E-BC31-5270B9D5A6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF17B51E-67C2-4B8E-BC31-5270B9D5A6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF17B51E-67C2-4B8E-BC31-5270B9D5A6EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A4F9578-11BA-4F16-BE70-077964C36BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A4F9578-11BA-4F16-BE70-077964C36BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A4F9578-11BA-4F16-BE70-077964C36BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A4F9578-11BA-4F16-BE70-077964C36BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0EB7B6E-29DA-4545-A051-095E1C4B6458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0EB7B6E-29DA-4545-A051-095E1C4B6458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0EB7B6E-29DA-4545-A051-095E1C4B6458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0EB7B6E-29DA-4545-A051-095E1C4B6458}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48887FD4-3D7F-402E-99E4-46844656FA6A}
+	EndGlobalSection
+EndGlobal

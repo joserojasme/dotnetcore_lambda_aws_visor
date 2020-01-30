@@ -1,0 +1,17 @@
+/Volumes/D/Desarrollos/VysorShopBackend/pricelist.vysorShop.microServices/src/pricelist.vysorShop.microServices/bin/Debug/netcoreapp2.1/pricelist.vysorShop.microServices.deps.json
+/Volumes/D/Desarrollos/VysorShopBackend/pricelist.vysorShop.microServices/src/pricelist.vysorShop.microServices/bin/Debug/netcoreapp2.1/pricelist.vysorShop.microServices.runtimeconfig.json
+/Volumes/D/Desarrollos/VysorShopBackend/pricelist.vysorShop.microServices/src/pricelist.vysorShop.microServices/bin/Debug/netcoreapp2.1/pricelist.vysorShop.microServices.runtimeconfig.dev.json
+/Volumes/D/Desarrollos/VysorShopBackend/pricelist.vysorShop.microServices/src/pricelist.vysorShop.microServices/bin/Debug/netcoreapp2.1/pricelist.vysorShop.microServices.dll
+/Volumes/D/Desarrollos/VysorShopBackend/pricelist.vysorShop.microServices/src/pricelist.vysorShop.microServices/bin/Debug/netcoreapp2.1/pricelist.vysorShop.microServices.pdb
+/Volumes/D/Desarrollos/VysorShopBackend/pricelist.vysorShop.microServices/src/pricelist.vysorShop.microServices/obj/Debug/netcoreapp2.1/pricelist.vysorShop.microServices.csproj.CoreCompileInputs.cache
+/Volumes/D/Desarrollos/VysorShopBackend/pricelist.vysorShop.microServices/src/pricelist.vysorShop.microServices/obj/Debug/netcoreapp2.1/pricelist.vysorShop.microServices.RazorAssemblyInfo.cache
+/Volumes/D/Desarrollos/VysorShopBackend/pricelist.vysorShop.microServices/src/pricelist.vysorShop.microServices/obj/Debug/netcoreapp2.1/pricelist.vysorShop.microServices.RazorAssemblyInfo.cs
+/Volumes/D/Desarrollos/VysorShopBackend/pricelist.vysorShop.microServices/src/pricelist.vysorShop.microServices/obj/Debug/netcoreapp2.1/pricelist.vysorShop.microServices.AssemblyInfoInputs.cache
+/Volumes/D/Desarrollos/VysorShopBackend/pricelist.vysorShop.microServices/src/pricelist.vysorShop.microServices/obj/Debug/netcoreapp2.1/pricelist.vysorShop.microServices.AssemblyInfo.cs
+/Volumes/D/Desarrollos/VysorShopBackend/pricelist.vysorShop.microServices/src/pricelist.vysorShop.microServices/obj/Debug/netcoreapp2.1/pricelist.vysorShop.microServices.RazorTargetAssemblyInfo.cache
+/Volumes/D/Desarrollos/VysorShopBackend/pricelist.vysorShop.microServices/src/pricelist.vysorShop.microServices/obj/Debug/netcoreapp2.1/pricelist.vysorShop.microServices.dll
+/Volumes/D/Desarrollos/VysorShopBackend/pricelist.vysorShop.microServices/src/pricelist.vysorShop.microServices/obj/Debug/netcoreapp2.1/pricelist.vysorShop.microServices.pdb
+/Volumes/D/Desarrollos/VysorShopBackend/pricelist.vysorShop.microServices/src/pricelist.vysorShop.microServices/obj/Debug/netcoreapp2.1/pricelist.vysorShop.microServices.csprojAssemblyReference.cache
+/Volumes/D/Desarrollos/VysorShopBackend/pricelist.vysorShop.microServices/src/pricelist.vysorShop.microServices/bin/Debug/netcoreapp2.1/product.vysorShop.microServices.dll
+/Volumes/D/Desarrollos/VysorShopBackend/pricelist.vysorShop.microServices/src/pricelist.vysorShop.microServices/bin/Debug/netcoreapp2.1/product.vysorShop.microServices.pdb
+/Volumes/D/Desarrollos/VysorShopBackend/pricelist.vysorShop.microServices/src/pricelist.vysorShop.microServices/obj/Debug/netcoreapp2.1/pricelist.vysorShop.microServices.csproj.CopyComplete

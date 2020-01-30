@@ -1,0 +1,14 @@
+/Volumes/D/Desarrollos/VysorShopBackend/jobTransaccion.vysorShop.microServices/src/jobTransaccion.vysorShop.microServices/bin/Release/netcoreapp2.1/jobTransaccion.vysorShop.microServices.deps.json
+/Volumes/D/Desarrollos/VysorShopBackend/jobTransaccion.vysorShop.microServices/src/jobTransaccion.vysorShop.microServices/bin/Release/netcoreapp2.1/jobTransaccion.vysorShop.microServices.runtimeconfig.json
+/Volumes/D/Desarrollos/VysorShopBackend/jobTransaccion.vysorShop.microServices/src/jobTransaccion.vysorShop.microServices/bin/Release/netcoreapp2.1/jobTransaccion.vysorShop.microServices.runtimeconfig.dev.json
+/Volumes/D/Desarrollos/VysorShopBackend/jobTransaccion.vysorShop.microServices/src/jobTransaccion.vysorShop.microServices/bin/Release/netcoreapp2.1/jobTransaccion.vysorShop.microServices.dll
+/Volumes/D/Desarrollos/VysorShopBackend/jobTransaccion.vysorShop.microServices/src/jobTransaccion.vysorShop.microServices/bin/Release/netcoreapp2.1/jobTransaccion.vysorShop.microServices.pdb
+/Volumes/D/Desarrollos/VysorShopBackend/jobTransaccion.vysorShop.microServices/src/jobTransaccion.vysorShop.microServices/obj/Release/netcoreapp2.1/jobTransaccion.vysorShop.microServices.csprojAssemblyReference.cache
+/Volumes/D/Desarrollos/VysorShopBackend/jobTransaccion.vysorShop.microServices/src/jobTransaccion.vysorShop.microServices/obj/Release/netcoreapp2.1/jobTransaccion.vysorShop.microServices.csproj.CoreCompileInputs.cache
+/Volumes/D/Desarrollos/VysorShopBackend/jobTransaccion.vysorShop.microServices/src/jobTransaccion.vysorShop.microServices/obj/Release/netcoreapp2.1/jobTransaccion.vysorShop.microServices.RazorAssemblyInfo.cache
+/Volumes/D/Desarrollos/VysorShopBackend/jobTransaccion.vysorShop.microServices/src/jobTransaccion.vysorShop.microServices/obj/Release/netcoreapp2.1/jobTransaccion.vysorShop.microServices.RazorAssemblyInfo.cs
+/Volumes/D/Desarrollos/VysorShopBackend/jobTransaccion.vysorShop.microServices/src/jobTransaccion.vysorShop.microServices/obj/Release/netcoreapp2.1/jobTransaccion.vysorShop.microServices.AssemblyInfoInputs.cache
+/Volumes/D/Desarrollos/VysorShopBackend/jobTransaccion.vysorShop.microServices/src/jobTransaccion.vysorShop.microServices/obj/Release/netcoreapp2.1/jobTransaccion.vysorShop.microServices.AssemblyInfo.cs
+/Volumes/D/Desarrollos/VysorShopBackend/jobTransaccion.vysorShop.microServices/src/jobTransaccion.vysorShop.microServices/obj/Release/netcoreapp2.1/jobTransaccion.vysorShop.microServices.RazorTargetAssemblyInfo.cache
+/Volumes/D/Desarrollos/VysorShopBackend/jobTransaccion.vysorShop.microServices/src/jobTransaccion.vysorShop.microServices/obj/Release/netcoreapp2.1/jobTransaccion.vysorShop.microServices.dll
+/Volumes/D/Desarrollos/VysorShopBackend/jobTransaccion.vysorShop.microServices/src/jobTransaccion.vysorShop.microServices/obj/Release/netcoreapp2.1/jobTransaccion.vysorShop.microServices.pdb

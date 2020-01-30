@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{F4E0BDCE-9644-4342-B733-41FC8CA1A07C}|Default">
+  <MonoDevelop.Ide.ItemProperties.product.vysorShop.microServices PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.pricelist.vysorShop.microServices PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.dianResolution.vysorShop.microServices PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="jobTransaccion.vysorShop.microServices/src/jobTransaccion.vysorShop.microServices/Controllers/ValuesController.cs">
+    <Files>
+      <File FileName="jobTransaccion.vysorShop.microServices/src/jobTransaccion.vysorShop.microServices/Controllers/ValuesController.cs" Line="24" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="vysorShop.microServices" expanded="True">
+            <Node name="cellar.vysorShop.microServices" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.jobTransaccion.vysorShop.microServices PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.transactions.vysorShop.microServices PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.client.vysorShop.microServices PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/D/Desarrollos/VysorShopBackend/transactions.vysorShop.microServices/src/transactions.vysorShop.microServices/Data/Repositories/TransactionRepository.cs" relfile="transactions.vysorShop.microServices/src/transactions.vysorShop.microServices/Data/Repositories/TransactionRepository.cs" line="30" column="1" />
+      <Breakpoint file="/Volumes/D/Desarrollos/VysorShopBackend/transactions.vysorShop.microServices/src/transactions.vysorShop.microServices/Data/Repositories/TransactionRepository.cs" relfile="transactions.vysorShop.microServices/src/transactions.vysorShop.microServices/Data/Repositories/TransactionRepository.cs" line="24" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.cellar.vysorShop.microServices PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

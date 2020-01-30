@@ -1,0 +1,14 @@
+/Volumes/D/Desarrollos/VysorShopBackend/dianResolution.vysorShop.microServices/src/dianResolution.vysorShop.microServices/bin/Debug/netcoreapp2.1/dianResolution.vysorShop.microServices.deps.json
+/Volumes/D/Desarrollos/VysorShopBackend/dianResolution.vysorShop.microServices/src/dianResolution.vysorShop.microServices/bin/Debug/netcoreapp2.1/dianResolution.vysorShop.microServices.runtimeconfig.json
+/Volumes/D/Desarrollos/VysorShopBackend/dianResolution.vysorShop.microServices/src/dianResolution.vysorShop.microServices/bin/Debug/netcoreapp2.1/dianResolution.vysorShop.microServices.runtimeconfig.dev.json
+/Volumes/D/Desarrollos/VysorShopBackend/dianResolution.vysorShop.microServices/src/dianResolution.vysorShop.microServices/bin/Debug/netcoreapp2.1/dianResolution.vysorShop.microServices.dll
+/Volumes/D/Desarrollos/VysorShopBackend/dianResolution.vysorShop.microServices/src/dianResolution.vysorShop.microServices/bin/Debug/netcoreapp2.1/dianResolution.vysorShop.microServices.pdb
+/Volumes/D/Desarrollos/VysorShopBackend/dianResolution.vysorShop.microServices/src/dianResolution.vysorShop.microServices/obj/Debug/netcoreapp2.1/dianResolution.vysorShop.microServices.csprojAssemblyReference.cache
+/Volumes/D/Desarrollos/VysorShopBackend/dianResolution.vysorShop.microServices/src/dianResolution.vysorShop.microServices/obj/Debug/netcoreapp2.1/dianResolution.vysorShop.microServices.csproj.CoreCompileInputs.cache
+/Volumes/D/Desarrollos/VysorShopBackend/dianResolution.vysorShop.microServices/src/dianResolution.vysorShop.microServices/obj/Debug/netcoreapp2.1/dianResolution.vysorShop.microServices.RazorAssemblyInfo.cache
+/Volumes/D/Desarrollos/VysorShopBackend/dianResolution.vysorShop.microServices/src/dianResolution.vysorShop.microServices/obj/Debug/netcoreapp2.1/dianResolution.vysorShop.microServices.RazorAssemblyInfo.cs
+/Volumes/D/Desarrollos/VysorShopBackend/dianResolution.vysorShop.microServices/src/dianResolution.vysorShop.microServices/obj/Debug/netcoreapp2.1/dianResolution.vysorShop.microServices.AssemblyInfoInputs.cache
+/Volumes/D/Desarrollos/VysorShopBackend/dianResolution.vysorShop.microServices/src/dianResolution.vysorShop.microServices/obj/Debug/netcoreapp2.1/dianResolution.vysorShop.microServices.AssemblyInfo.cs
+/Volumes/D/Desarrollos/VysorShopBackend/dianResolution.vysorShop.microServices/src/dianResolution.vysorShop.microServices/obj/Debug/netcoreapp2.1/dianResolution.vysorShop.microServices.RazorTargetAssemblyInfo.cache
+/Volumes/D/Desarrollos/VysorShopBackend/dianResolution.vysorShop.microServices/src/dianResolution.vysorShop.microServices/obj/Debug/netcoreapp2.1/dianResolution.vysorShop.microServices.dll
+/Volumes/D/Desarrollos/VysorShopBackend/dianResolution.vysorShop.microServices/src/dianResolution.vysorShop.microServices/obj/Debug/netcoreapp2.1/dianResolution.vysorShop.microServices.pdb

@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{C80DC817-1B09-480F-B0BD-BDC81DB10047}|Default">
+  <MonoDevelop.Ide.ItemProperties.product.vysorShop.microServices PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ProductsController.cs">
+    <Files>
+      <File FileName="Data/Repositories/ProductsRepository.cs" Line="25" Column="48" />
+      <File FileName="Services/ProductsServices.cs" />
+      <File FileName="Models/Interfaces/IProductsRepository.cs" />
+      <File FileName="Controllers/ProductsController.cs" Line="101" Column="18" />
+      <File FileName="Models/Productos.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="product.vysorShop.microServices" expanded="True">
+            <Node name="product.vysorShop.microServices" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ProductsController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/D/Desarrollos/VysorShopBackend/product.vysorShop.microServices/product.vysorShop.microServices/src/product.vysorShop.microServices/Controllers/ProductsController.cs" relfile="Controllers/ProductsController.cs" line="95" column="1" />
+      <Breakpoint file="/Volumes/D/Desarrollos/VysorShopBackend/product.vysorShop.microServices/product.vysorShop.microServices/src/product.vysorShop.microServices/Controllers/ProductsController.cs" relfile="Controllers/ProductsController.cs" line="87" column="1" />
+      <Breakpoint file="/Volumes/D/Desarrollos/VysorShopBackend/product.vysorShop.microServices/product.vysorShop.microServices/src/product.vysorShop.microServices/Controllers/ProductsController.cs" relfile="Controllers/ProductsController.cs" line="118" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

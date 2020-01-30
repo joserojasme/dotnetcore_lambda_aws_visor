@@ -1,0 +1,31 @@
+<<<<<<< HEAD
+/Volumes/D/Desarrollos/VysorShopBackend/transactions.vysorShop.microServices/src/transactions.vysorShop.microServices/bin/Release/netcoreapp2.1/transactions.vysorShop.microServices.deps.json
+/Volumes/D/Desarrollos/VysorShopBackend/transactions.vysorShop.microServices/src/transactions.vysorShop.microServices/bin/Release/netcoreapp2.1/transactions.vysorShop.microServices.runtimeconfig.json
+/Volumes/D/Desarrollos/VysorShopBackend/transactions.vysorShop.microServices/src/transactions.vysorShop.microServices/bin/Release/netcoreapp2.1/transactions.vysorShop.microServices.runtimeconfig.dev.json
+/Volumes/D/Desarrollos/VysorShopBackend/transactions.vysorShop.microServices/src/transactions.vysorShop.microServices/bin/Release/netcoreapp2.1/transactions.vysorShop.microServices.dll
+/Volumes/D/Desarrollos/VysorShopBackend/transactions.vysorShop.microServices/src/transactions.vysorShop.microServices/bin/Release/netcoreapp2.1/transactions.vysorShop.microServices.pdb
+/Volumes/D/Desarrollos/VysorShopBackend/transactions.vysorShop.microServices/src/transactions.vysorShop.microServices/obj/Release/netcoreapp2.1/transactions.vysorShop.microServices.csprojAssemblyReference.cache
+/Volumes/D/Desarrollos/VysorShopBackend/transactions.vysorShop.microServices/src/transactions.vysorShop.microServices/obj/Release/netcoreapp2.1/transactions.vysorShop.microServices.csproj.CoreCompileInputs.cache
+/Volumes/D/Desarrollos/VysorShopBackend/transactions.vysorShop.microServices/src/transactions.vysorShop.microServices/obj/Release/netcoreapp2.1/transactions.vysorShop.microServices.RazorAssemblyInfo.cache
+/Volumes/D/Desarrollos/VysorShopBackend/transactions.vysorShop.microServices/src/transactions.vysorShop.microServices/obj/Release/netcoreapp2.1/transactions.vysorShop.microServices.RazorAssemblyInfo.cs
+/Volumes/D/Desarrollos/VysorShopBackend/transactions.vysorShop.microServices/src/transactions.vysorShop.microServices/obj/Release/netcoreapp2.1/transactions.vysorShop.microServices.AssemblyInfoInputs.cache
+/Volumes/D/Desarrollos/VysorShopBackend/transactions.vysorShop.microServices/src/transactions.vysorShop.microServices/obj/Release/netcoreapp2.1/transactions.vysorShop.microServices.AssemblyInfo.cs
+/Volumes/D/Desarrollos/VysorShopBackend/transactions.vysorShop.microServices/src/transactions.vysorShop.microServices/obj/Release/netcoreapp2.1/transactions.vysorShop.microServices.RazorTargetAssemblyInfo.cache
+/Volumes/D/Desarrollos/VysorShopBackend/transactions.vysorShop.microServices/src/transactions.vysorShop.microServices/obj/Release/netcoreapp2.1/transactions.vysorShop.microServices.dll
+/Volumes/D/Desarrollos/VysorShopBackend/transactions.vysorShop.microServices/src/transactions.vysorShop.microServices/obj/Release/netcoreapp2.1/transactions.vysorShop.microServices.pdb
+=======
+C:\Users\Usuario\Documents\microservices\transactions.vysorShop.microServices\src\transactions.vysorShop.microServices\bin\Release\netcoreapp2.1\transactions.vysorShop.microServices.deps.json
+C:\Users\Usuario\Documents\microservices\transactions.vysorShop.microServices\src\transactions.vysorShop.microServices\bin\Release\netcoreapp2.1\transactions.vysorShop.microServices.runtimeconfig.json
+C:\Users\Usuario\Documents\microservices\transactions.vysorShop.microServices\src\transactions.vysorShop.microServices\bin\Release\netcoreapp2.1\transactions.vysorShop.microServices.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\microservices\transactions.vysorShop.microServices\src\transactions.vysorShop.microServices\bin\Release\netcoreapp2.1\transactions.vysorShop.microServices.dll
+C:\Users\Usuario\Documents\microservices\transactions.vysorShop.microServices\src\transactions.vysorShop.microServices\bin\Release\netcoreapp2.1\transactions.vysorShop.microServices.pdb
+C:\Users\Usuario\Documents\microservices\transactions.vysorShop.microServices\src\transactions.vysorShop.microServices\obj\Release\netcoreapp2.1\transactions.vysorShop.microServices.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\microservices\transactions.vysorShop.microServices\src\transactions.vysorShop.microServices\obj\Release\netcoreapp2.1\transactions.vysorShop.microServices.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\microservices\transactions.vysorShop.microServices\src\transactions.vysorShop.microServices\obj\Release\netcoreapp2.1\transactions.vysorShop.microServices.RazorAssemblyInfo.cache
+C:\Users\Usuario\Documents\microservices\transactions.vysorShop.microServices\src\transactions.vysorShop.microServices\obj\Release\netcoreapp2.1\transactions.vysorShop.microServices.RazorAssemblyInfo.cs
+C:\Users\Usuario\Documents\microservices\transactions.vysorShop.microServices\src\transactions.vysorShop.microServices\obj\Release\netcoreapp2.1\transactions.vysorShop.microServices.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\microservices\transactions.vysorShop.microServices\src\transactions.vysorShop.microServices\obj\Release\netcoreapp2.1\transactions.vysorShop.microServices.AssemblyInfo.cs
+C:\Users\Usuario\Documents\microservices\transactions.vysorShop.microServices\src\transactions.vysorShop.microServices\obj\Release\netcoreapp2.1\transactions.vysorShop.microServices.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Documents\microservices\transactions.vysorShop.microServices\src\transactions.vysorShop.microServices\obj\Release\netcoreapp2.1\transactions.vysorShop.microServices.dll
+C:\Users\Usuario\Documents\microservices\transactions.vysorShop.microServices\src\transactions.vysorShop.microServices\obj\Release\netcoreapp2.1\transactions.vysorShop.microServices.pdb
+>>>>>>> 5bd0a484ab66b8891ef2bd3fc9d91e505f7d2e2a
